@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/mayank/CS-415-Project/Content/Blueprints/Characters/BP_ThirdPersonCharacter.uasset",
+				"/Users/mayank/CS-415-Project/Content/UI/StopwatchDisplay.uasset",
 				"C:/Users/mhirani2/OneDrive - University of Illinois - Urbana/CS 415/CS-415-Project/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/mhirani2/OneDrive - University of Illinois - Urbana/CS 415/CS-415-Project/Content/Blueprints/UI/HealthDisplay.uasset",
 				"C:/Users/mhirani2/OneDrive - University of Illinois - Urbana/CS 415/CS-415-Project/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
