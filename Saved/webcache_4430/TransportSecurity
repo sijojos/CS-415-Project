@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"expect_ct":[],"sts":[{"expiry":1747000710.496209,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1746395910.496211},{"expiry":1761947912.417732,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1746395912.417734}],"version":2}
-=======
-{"expect_ct":[],"sts":[{"expiry":1746994984.394955,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1746390184.394957},{"expiry":1761942195.364749,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1746390195.364751}],"version":2}
->>>>>>> a60e5db5356d6b96d39e801a12178cfa28312f86
+{"expect_ct":[],"sts":[{"expiry":1747270671.357321,"host":"Z+rOkxFdI//y4dVtNJId/IvFZzTR9tsr5OFneG0q04o=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1746665871.357323},{"expiry":1762217939.216723,"host":"3ZwFSNHjhrLO6Heo8BmbHv933gt01YHG10631DOjeRk=","mode":"force-https","sts_include_subdomains":false,"sts_observed":1746665939.216725}],"version":2}
